@@ -69,6 +69,6 @@ Claim 4: Blast-radius-aware remediation system that evaluates
 ## Commercial Value
 ```
 $5K-50K/month per deployment as managed service.
-Or: Saves AT&T $8M/quarter in SLA penalty avoidance.
+Or: Saves tier-1 carrier $8M/quarter in SLA penalty avoidance.
 That's a promotion-worthy number right there.
 ```

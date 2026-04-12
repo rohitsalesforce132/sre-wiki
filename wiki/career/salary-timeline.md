@@ -6,7 +6,7 @@
 
 | Period | Role | Company | Compensation | Why It Changed |
 |--------|------|---------|-------------|---------------|
-| Current | Azure DevOps Engineer | AT&T | ~₹25-35 LPA (estimate) | — |
+| Current | Azure DevOps Engineer | tier-1 carrier | ~₹25-35 LPA (estimate) | — |
 
 > ⚠️ Fill in actual numbers. This is PRIVATE — never share this file externally.
 
@@ -76,7 +76,7 @@ Total Year 1:             ₹90-1.2 Cr
 
 ## Salary Negotiation Scripts
 
-### Script 1: Annual Review at AT&T
+### Script 1: Annual Review at tier-1 carrier
 ```
 "This year I've:
   1. Maintained 99.9% uptime across CAMARA APIs

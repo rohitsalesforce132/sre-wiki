@@ -39,12 +39,12 @@ Timeline: 18-24 months
 ### Phase 4: ₹1Cr (Jul 2027 → Dec 2027)
 - [ ] Senior ML Engineer or MLOps Lead at a top company
 - [ ] Or: Startup with telecom API intelligence platform
-- [ ] Or: Principal Engineer at AT&T with IP portfolio
+- [ ] Or: Principal Engineer at tier-1 carrier with IP portfolio
 - [ ] **Target:** ₹1 Cr (base + stocks + bonus)
 
 ## Career Paths to ₹1Cr
 
-### Path A: Corporate Ladder (AT&T or similar)
+### Path A: Corporate Ladder (tier-1 carrier or similar)
 ```
 Current: DevOps Engineer (~₹30LPA)
   ↓ 6 months: Senior SRE + patent filed (~₹45LPA)
@@ -52,13 +52,13 @@ Current: DevOps Engineer (~₹30LPA)
   ↓ 18 months: Principal Engineer (~₹80LPA)
   ↓ 24 months: Distinguished Engineer / Director (~₹1Cr)
   
-Pros: Stable, no risk, AT&T pays for patents
+Pros: Stable, no risk, tier-1 carrier pays for patents
 Cons: Slow, corporate politics, limited upside
 ```
 
 ### Path B: Job Hop to AI/ML Company
 ```
-Current: DevOps Engineer at AT&T (~₹30LPA)
+Current: DevOps Engineer at tier-1 carrier (~₹30LPA)
   ↓ 6 months: MLOps Engineer at startup (~₹40LPA + equity)
   ↓ 12 months: Senior MLOps at mid-size (~₹55LPA)
   ↓ 18 months: Lead MLOps at unicorn (~₹75LPA + stocks)
@@ -80,7 +80,7 @@ Pros: Highest upside, you own it, aligns with patent strategy
 Cons: Highest risk, needs full commitment, uncertain timeline
 ```
 
-**Recommended: Path A + C in parallel.** Build IP at AT&T while creating open-source tools on the side. Switch to Path B at Month 12 if startup traction is low.
+**Recommended: Path A + C in parallel.** Build IP at tier-1 carrier while creating open-source tools on the side. Switch to Path B at Month 12 if startup traction is low.
 
 ## Target Companies (Bangalore)
 

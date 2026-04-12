@@ -45,7 +45,7 @@
 - **Source:** Building incident-knowledge-graph repo
 - **Time spent:** ~4 hours
 - **Key takeaway:** Zero-dependency Markdown knowledge graphs can replace complex graph databases for incident management. Copilot reads them directly.
-- **How I'll use it:** Template for building knowledge graphs at AT&T. Manager pitch material.
+- **How I'll use it:** Template for building knowledge graphs at tier-1 carrier. Manager pitch material.
 - **Artifact:** github.com/rohitsalesforce132/incident-knowledge-graph
 
 ### 2026-04-12: Knowledge Graph Deep Dive (Brainstorming)

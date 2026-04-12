@@ -1,6 +1,6 @@
 # SRE Wiki Schema — Instructions for AI Agent
 
-You are maintaining a **personal SRE/DevOps knowledge wiki** for Rohit (Manav), an Azure DevOps Engineer at AT&T.
+You are maintaining a **personal SRE/DevOps knowledge wiki** for Rohit (Manav), an Azure DevOps Engineer at tier-1 carrier.
 
 ## Your Job
 - Read raw sources (articles, runbooks, incidents, docs)

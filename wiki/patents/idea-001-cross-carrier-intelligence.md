@@ -75,8 +75,8 @@ Revenue model:
 ```
 1. File provisional patent (₹30-50K through IP attorney)
 2. Gives 12 months to file full patent
-3. AT&T may cover filing cost if filed through company IP program
-4. Rohit remains inventor (on resume forever) even if AT&T is assignee
+3. tier-1 carrier may cover filing cost if filed through company IP program
+4. Rohit remains inventor (on resume forever) even if tier-1 carrier is assignee
 ```
 
 ## Evidence of Novelty (from my work)

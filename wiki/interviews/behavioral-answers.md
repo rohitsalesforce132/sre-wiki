@@ -62,7 +62,7 @@ A:
 R:
   - New engineer on-call readiness: 6 months → 2 weeks
   - MTTR reduced by 60% (answers from wiki instead of asking people)
-  - Adopted by 2 other teams at AT&T
+  - Adopted by 2 other teams at tier-1 carrier
   - Open-sourced on GitHub
   - Became team standard for documentation
 
